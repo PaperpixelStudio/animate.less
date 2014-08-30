@@ -1,5 +1,5 @@
 {
-  "name": "animate.css",
+  "name": "animate.less",
   "version": "3.2.1",
   "devDependencies": {
     "grunt": "~0.4.1",
@@ -10,6 +10,6 @@
     "load-grunt-tasks": "~0.2.0"
   },
   "spm": {
-    "main": "./animate.css"
+    "main": "./animate.less"
   }
 }
